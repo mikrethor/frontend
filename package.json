@@ -4,7 +4,7 @@
   "description": "frontend pour les ws daycare",
   "main": "index.js",
   "scripts": {
-    "start": "live-server --host=192.168.0.101 --port=8080",
+    "start": "live-server --host=localhost --port=8080",
     "i18n": "ng-xi18n",
     "origin": "*"
   },
